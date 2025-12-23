@@ -20,7 +20,37 @@ I believe the best way to learn is to build it myself.
 - **Virtualization:** Windows 11 VMs for Active Directory & Admin practice.
 - **Linux Lab:** Converted a legacy HP laptop (17-bs027ds) into a dedicated Ubuntu Linux machine.
 ### 📂 Projects & Repairs
-*(Photos coming soon)*
+### 📸 Repair Gallery
+
+*Step 1: Opening the case to access internal components.*
+![IMG_1445](https://github.com/user-attachments/assets/631950b8-758b-4ba1-bcfc-95b23b6221e9)
+![image32](https://github.com/user-attachments/assets/2c7cb6e7-9865-43c0-a10e-6b4e69fb26c0)
+
+
+
+*Step 2: Inspecting the motherboard and connections.*
+![image24](https://github.com/user-attachments/assets/dad5ab41-7b3f-415e-aebd-80ec976f2407)
+![IMG_1435](https://github.com/user-attachments/assets/fd254cc2-d266-40ea-95f3-98cb5142ed79)
+
+
+
+*Step 3: Swapping the hard drive.*
+![IMG_1459](https://github.com/user-attachments/assets/90fc9208-af9d-44d6-9353-4f7cbb3ba2a3)
+![IMG_1460](https://github.com/user-attachments/assets/99131379-1c31-4e61-9f99-7b9e970e4b47)
+
+
+*Step 4: Putting it all back together.*
+![IMG_1440](https://github.com/user-attachments/assets/38b5fa79-b4da-4935-b19f-1d6b4d19b1f3)
+![IMG_1446](https://github.com/user-attachments/assets/8d68de34-a7c7-4fcc-9b8a-20324efadb02)
+
+
+*Step 5: Installing the new Operating System.*
+![IMG_1425](https://github.com/user-attachments/assets/9d7f309f-0d87-4502-99f3-a9ef0fe77b75)
+![image12](https://github.com/user-attachments/assets/dd3cc006-9d59-4ac7-b14c-8f125f91dc1e)
+
+
+
+
 
 ### **Project 1: The "Lazarus" Laptop (HP Restoration)**
 * **Problem:** Legacy hardware retiring from daily use.
