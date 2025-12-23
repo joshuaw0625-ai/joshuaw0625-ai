@@ -13,6 +13,12 @@ I am now applying that diagnostic logic to software and hardware. I don't just s
 - **Google IT Support Professional Certificate:** Currently on Course 3 (Operating Systems).
 - **CompTIA A+:** Studying Core 1 & 2 using Sybex guides.
 - **Philosophy:** "Learn it to remember it." Prioritizing deep understanding over speed.
+### 📜 Certifications
+| Course | Issuer | Status |
+| :--- | :--- | :--- |
+| **Technical Support Fundamentals** (|https://coursera.org/share/3e0800a2170a2db0a79d5115bde6c9f7) Google (Coursera) | ✅ Completed |
+| **The Bits and Bytes of Computer Networking** |(https://coursera.org/share/bbf62fb059c7321b9c671905347cf77c) Google (Coursera) | ✅ Completed |
+| **Operating Systems & You: Becoming a Power User** | Google (Coursera) | 🚧 In Progress |
 
 ### 🛠️ Hardware & Home Lab
 I believe the best way to learn is to build it myself.
