@@ -18,8 +18,8 @@ I am now applying that diagnostic logic to software and hardware. I don't just s
 | :--- | :--- | :--- |
 | **Technical Support Fundamentals** (|https://coursera.org/share/3e0800a2170a2db0a79d5115bde6c9f7) Google (Coursera) | ✅ Completed |
 | **The Bits and Bytes of Computer Networking** |(https://coursera.org/share/bbf62fb059c7321b9c671905347cf77c) Google (Coursera) | ✅ Completed |
-| **Operating Systems & You: Becoming a Power User** |https://coursera.org/share/8028311145589ac329774657d7d57c2a Google (Coursera) | Completed |
-| **System Administration and IT Infastructure Service.** |https://coursera.org/share/ab1fcff45bf0d124f7aa65126792138 Google (Coursera) | Completed |
+| **Operating Systems & You: Becoming a Power User** |https://coursera.org/share/8028311145589ac329774657d7d57c2a Google (Coursera) | ✅ Completed |
+| **System Administration and IT Infastructure Service.** |https://coursera.org/share/ab1fcff45bf0d124f7aa65126792138 Google (Coursera) | ✅ Completed |
 ### 🛠️ Hardware & Home Lab
 I believe the best way to learn is to build it myself.
 - **Primary Workstation:** Windows 11 (Intel Pentium Gold, 16GB RAM)
