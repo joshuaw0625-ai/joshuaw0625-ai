@@ -55,10 +55,21 @@ I believe the best way to learn is to build it myself.
 ![image12](https://github.com/user-attachments/assets/dd3cc006-9d59-4ac7-b14c-8f125f91dc1e)
 
 
-
-
-
 ### **Project 1: The "Lazarus" Laptop (HP Restoration)**
 * **Problem:** Legacy hardware retiring from daily use.
 * **Solution:** Wiped the drive, physically cleaned internal components, and installed Ubuntu Linux to create a dedicated sandbox for learning command line interface (CLI).
 
+## 🔧 Troubleshooting Log & "Break/Fix" Scenarios
+
+### 🔴 Scenario 1: Web Server Start Failure
+* **Issue:** Apache2 service failed to start. Status check showed `(98)Address already in use`.
+* **Diagnosis:** Ran `sudo ss -ltnp | grep :80` and identified that **Pi-hole FTL** was already binding to Port 80.
+* **Resolution:** Identified the conflict between the DNS sinkhole and the Web Server. ( Documented the decision to prioritize one service or change ports).
+
+### 🔴 Scenario 2: Network Interface Recovery
+* **Issue:** Simulated a severed network link by downing the interface.
+* **Resolution:** Used `ip link` commands to restore the interface without a system reboot.
+
+### 🔴 Scenario 3: Command Syntax Navigation
+* **Issue:** Needed to modify user credentials but was unsure of specific argument syntax.
+* **Resolution:** Utilized the `--help` flag to self-document the command options and successfully executed the password change without external guides.
